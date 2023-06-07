@@ -1,0 +1,219 @@
+
+.titulo{
+    background: #FFF6BD;
+    
+    margin: 1px 100px 1px 10px;
+    /*        ariba abajo   abajo hiz*/
+    padding: 10px 900px 1px 430px;
+}
+.Nay{
+
+   
+    width: 500px;
+    height: 500px;
+}
+.what
+  
+    {
+     
+       
+      
+    }
+   
+
+h1{
+  
+    display: flex;
+    font-size: 70px;/*tamaño de letra*/
+    color: rgb(161, 99, 223);
+    margin: 1px 10px 1px 10px;
+    /*        ariba abajo   abajo hiz*/
+    padding: 10px 100px 20px 30px;
+}
+nav{
+    padding: 2px;
+   
+}
+.p0{
+  
+    background: #FFD4B2;/* caja*/
+   margin: 10px 0px 0px 10px;/*margen de cajas */
+   padding: 10px 320px 10px 10px; /*tamaño de caja */
+    height: 500px;
+    background-image: url(imagenes/np.png);
+    background-repeat: no-repeat;/*para que no se repita la imagen */
+}
+.caja2{
+    background: #6096B4;
+    margin: 10px 1px 9px 10px;
+         /*               3B   */
+    padding: 10px 1px 50px 10px;
+}
+.p1{
+    background: #C06C84;
+    margin: 10px 0px 10px 10px;
+    font-size: 50px;
+
+}
+
+.p2{
+    
+  
+    
+}
+.cajaEx{
+    display: flex;
+}
+/*imagenes */
+
+.img2{
+    /*    Ariva   LDere  abajo  Lhiz */
+    margin: 10px 10px 10px 0px;
+   width: 130px;
+   height: 130px;
+ 
+}
+.img3{
+    margin: 10px 10px 10px 0px;
+    width: 100px;
+    height: 150px;
+    
+ }
+ .naviC{
+
+ }
+ .img4{
+    margin: 200px 90px 10px 0px;
+    width: 350px;
+    height: 250px;
+ }
+/*fin de imagenes */
+.CajaLo{
+    background: #FFF6BD;
+    margin: 1px 10px 1px 10px;
+    /*        ariba abajo   abajo hiz*/
+    padding: 10px 200px 10px 30px;
+}
+.p3{
+    font-size: 40px;
+   
+    margin: 1px 100px 1px 10px;
+    /*        ariba abajo   abajo hiz*/
+    padding: 10px 900px 10px 430px;
+  
+}
+.Caja3{
+    display: flex;
+}
+.tt1{
+    font-size: 15px;
+   
+
+}
+.imgLo1{
+ 
+    width: 150px;
+    height: 150px;
+    padding: 10px 90px 50px 1px;
+}
+.imgLo2{
+    width: 150px;
+    height: 150px;
+    padding: 10px 90px 50px 1px;
+
+}
+.imgLo3{
+    width: 150px;
+    height: 150px;
+    padding: 10px 90px 50px 1px;
+
+}
+.pL0{
+    background: #C4DFAA;
+    margin: 10px 20px 20px 30px;
+    padding: 10px 200px 10px 30px;
+    display: flex;
+}
+.pls{
+    background: #C4DFAA;
+    margin: 10px 20px 20px 30px;
+    padding: 10px 200px 10px 30px;
+   
+}
+.Pro1{
+    background: #E6BA95;
+    padding: 150px 10px 150px 10px;
+    width: 350px;
+    height: 300px;
+}
+.pro2{
+    background: #C4DFAA;
+    padding: 150px 5px 150px 5px;
+    width: 10px;
+    height: 10px;
+   
+}
+.pro3{
+    background: #C4DFAA;
+    padding: 230px 5px 230px 5px;
+    width: 350px;
+    height: 500;
+
+}
+.pro4{
+    background: #7af4f8;
+    padding: 150px 5px 150px 5px;
+    width: 50px;
+    height: 50px;
+    
+}
+
+.Nombre{
+    display: flex;
+}
+.Lp{
+    width: 300px;
+    height: 550px;
+}
+.IMC2{
+    background: #E6BA95;
+    padding: 150px 50px 150px 50px;
+    width: 250px;
+    height: 250px;
+}
+.IMC3{
+    width: 300px;
+    height: 550px;
+}
+.IMC4{
+    width: 300px;
+    height: 550px;
+}
+.Mascotas1{
+    width: 300px;
+    height: 550px;
+}
+.Mascotas{
+    width: 300px;
+    height: 550px;
+}
+.Mascotas2{
+    width: 300px;
+    height: 550px;
+}
+.Mas3{
+    width: 550px;
+    height: 450px;
+}
+.Mas4{
+    width: 300px;
+    height: 550px;
+}
+.M1{
+
+}
+.M2{
+    width: 300px;
+    height: 550px;
+
+}
